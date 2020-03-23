@@ -1,4 +1,4 @@
-FROM docker.bluelight.limited:5000/feingkai/mkiii-setup-image:latest
+FROM docker.bluelight.limited/feingkai/mkiii-setup-image:latest
 
 
 WORKDIR /home/app/microkube/
